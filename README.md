@@ -23,5 +23,5 @@ sage filter_graphs.py 5
 # Documentation
 
 Sage:
-- [http://doc.sagemath.org/html/en/reference/graphs/index.html](Graph theory)
-- [http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/graph_generators.html](Common graphs)
+- [Graph theory](http://doc.sagemath.org/html/en/reference/graphs/index.html)
+- [Common graphs](http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/graph_generators.html)
